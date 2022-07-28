@@ -34,7 +34,7 @@ global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'Lord-official'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
+global.watermark = '- 𝖸𝗎᥆𝗌𝗌ᥱ𝖥 𝖺ᥣ 𝖲𝖺ᥣᎥ𝗁 .'
 global.owner = ['919778383987']
 global.premium = ['919778383987']
 global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
