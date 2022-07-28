@@ -175,7 +175,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
    })
         }
         const replay = (teks) => {
-            hisoka.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `ʟᴏʀᴅ-ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`,"body": `Follow me on instagram`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": global.tgumb,"sourceUrl": "https://instagram.com/noureddine_ouafy"}}}, { quoted: lordofc})
+            hisoka.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `ʟᴏʀᴅ-ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`,"body": `Follow me on instagram`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": global.tgumb,"sourceUrl": "https://t.me/GGG66"}}}, { quoted: lordofc})
         }
 	    
         // Group
@@ -421,7 +421,7 @@ Selama ${clockString(new Date - user.afkTime)}
     
     case 'sc': 
     case 'script':
-    case 'git':function _0x136c(_0x51d01f,_0x21baa5){const _0x26557a=_0x2655();return _0x136c=function(_0x136cdc,_0x520be1){_0x136cdc=_0x136cdc-0x172;let _0x4ca82e=_0x26557a[_0x136cdc];return _0x4ca82e;},_0x136c(_0x51d01f,_0x21baa5);}const _0x39aad7=_0x136c;(function(_0x163004,_0x15d252){const _0x43aa09=_0x136c,_0x558e40=_0x163004();while(!![]){try{const _0x589693=parseInt(_0x43aa09(0x17a))/0x1+parseInt(_0x43aa09(0x175))/0x2+-parseInt(_0x43aa09(0x179))/0x3+parseInt(_0x43aa09(0x180))/0x4*(-parseInt(_0x43aa09(0x17d))/0x5)+-parseInt(_0x43aa09(0x17f))/0x6*(parseInt(_0x43aa09(0x17e))/0x7)+-parseInt(_0x43aa09(0x178))/0x8*(-parseInt(_0x43aa09(0x172))/0x9)+-parseInt(_0x43aa09(0x17b))/0xa*(-parseInt(_0x43aa09(0x181))/0xb);if(_0x589693===_0x15d252)break;else _0x558e40['push'](_0x558e40['shift']());}catch(_0x3ea93e){_0x558e40['push'](_0x558e40['shift']());}}}(_0x2655,0xd77db));function _0x2655(){const _0x4faf14=['40267007NoIdDO','user','𝑴𝒆𝒏𝒖','369AubXZk','*──「\x20𝐋𝐨𝐑𝐃-𝐌𝐃\x20」──*\x0a\x0a❑\x20http://github.com/Lord-official/LoRD-MD\x0a\x0a❑\x20𝑫𝒐𝒏𝒕\x20𝑭𝒐𝒓𝒈𝒆𝒕\x20𝑻𝒐\x20𝑮𝒊𝒗𝒆\x20𝑺𝒕𝒂𝒓\x20🐦','chat','363772sXPKCF','owner','sendButtonText','109096jlbdSq','4160058GRAXKe','4044YDzDPx','10TdriZi','name','415lfVisb','4949YHWCQo','10332hWmDgU','44284NgGTkl'];_0x2655=function(){return _0x4faf14;};return _0x2655();}{let buttons=[{'buttonId':'menu','buttonText':{'displayText':_0x39aad7(0x183)},'type':0x1},{'buttonId':_0x39aad7(0x176),'buttonText':{'displayText':'𝑶𝒘𝒏𝒆𝒓'},'type':0x1}];await hisoka[_0x39aad7(0x177)](m[_0x39aad7(0x174)],buttons,_0x39aad7(0x173),hisoka[_0x39aad7(0x182)][_0x39aad7(0x17c)],m);}
+    case 'git':function _0x136c(_0x51d01f,_0x21baa5){const _0x26557a=_0x2655();return _0x136c=function(_0x136cdc,_0x520be1){_0x136cdc=_0x136cdc-0x172;let _0x4ca82e=_0x26557a[_0x136cdc];return _0x4ca82e;},_0x136c(_0x51d01f,_0x21baa5);}const _0x39aad7=_0x136c;(function(_0x163004,_0x15d252){const _0x43aa09=_0x136c,_0x558e40=_0x163004();while(!![]){try{const _0x589693=parseInt(_0x43aa09(0x17a))/0x1+parseInt(_0x43aa09(0x175))/0x2+-parseInt(_0x43aa09(0x179))/0x3+parseInt(_0x43aa09(0x180))/0x4*(-parseInt(_0x43aa09(0x17d))/0x5)+-parseInt(_0x43aa09(0x17f))/0x6*(parseInt(_0x43aa09(0x17e))/0x7)+-parseInt(_0x43aa09(0x178))/0x8*(-parseInt(_0x43aa09(0x172))/0x9)+-parseInt(_0x43aa09(0x17b))/0xa*(-parseInt(_0x43aa09(0x181))/0xb);if(_0x589693===_0x15d252)break;else _0x558e40['push'](_0x558e40['shift']());}catch(_0x3ea93e){_0x558e40['push'](_0x558e40['shift']());}}}(_0x2655,0xd77db));function _0x2655(){const _0x4faf14=['40267007NoIdDO','user','𝑴𝒆𝒏𝒖','369AubXZk','*──「\x20𝐋𝐨𝐑𝐃-𝐌𝐃\x20」──*\x0a\x0a❑\x20http://github.com/Lord-official/LoRD-MD\x0a\x0a❑\x20𝑫𝒐𝒏𝒕\x20𝑭𝒐𝒓𝒈𝒆𝒕\x20𝑻𝒐\x20𝑮𝒊𝒗𝒆\x20𝑺𝒕𝒂𝒓\x20 ᥀︙','chat','363772sXPKCF','owner','sendButtonText','109096jlbdSq','4160058GRAXKe','4044YDzDPx','10TdriZi','name','415lfVisb','4949YHWCQo','10332hWmDgU','44284NgGTkl'];_0x2655=function(){return _0x4faf14;};return _0x2655();}{let buttons=[{'buttonId':'menu','buttonText':{'displayText':_0x39aad7(0x183)},'type':0x1},{'buttonId':_0x39aad7(0x176),'buttonText':{'displayText':'𝑶𝒘𝒏𝒆𝒓'},'type':0x1}];await hisoka[_0x39aad7(0x177)](m[_0x39aad7(0x174)],buttons,_0x39aad7(0x173),hisoka[_0x39aad7(0x182)][_0x39aad7(0x17c)],m);}
             break
 
                 case 'tqto': case 'credits': case 'credit': case 'hehe':const _0xe59b5=_0xb90d;function _0xb90d(_0x1720b0,_0x4e108b){const _0x2d632e=_0x2d63();return _0xb90d=function(_0xb90d1a,_0x5c3732){_0xb90d1a=_0xb90d1a-0x85;let _0x53cff1=_0x2d632e[_0xb90d1a];return _0x53cff1;},_0xb90d(_0x1720b0,_0x4e108b);}(function(_0x2258f9,_0x22c09d){const _0x55fb99=_0xb90d,_0x134760=_0x2258f9();while(!![]){try{const _0x47fd03=-parseInt(_0x55fb99(0x95))/0x1*(parseInt(_0x55fb99(0x92))/0x2)+parseInt(_0x55fb99(0x90))/0x3*(-parseInt(_0x55fb99(0x88))/0x4)+parseInt(_0x55fb99(0x93))/0x5*(parseInt(_0x55fb99(0x86))/0x6)+parseInt(_0x55fb99(0x87))/0x7*(-parseInt(_0x55fb99(0x8f))/0x8)+-parseInt(_0x55fb99(0x85))/0x9*(parseInt(_0x55fb99(0x94))/0xa)+parseInt(_0x55fb99(0x91))/0xb+parseInt(_0x55fb99(0x8a))/0xc;if(_0x47fd03===_0x22c09d)break;else _0x134760['push'](_0x134760['shift']());}catch(_0x47c747){_0x134760['push'](_0x134760['shift']());}}}(_0x2d63,0x2b070));{anu=_0xe59b5(0x8c);let btn=[{'urlButton':{'displayText':'𝑮𝒊𝒕𝒉𝒖𝒃','url':_0xe59b5(0x8e)}},{'urlButton':{'displayText':'𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑','url':_0xe59b5(0x8d)}}];hisoka['send5ButImg'](m[_0xe59b5(0x89)],anu,hisoka[_0xe59b5(0x96)][_0xe59b5(0x8b)],global[_0xe59b5(0x97)],btn);}function _0x2d63(){const _0xa4c00=['1438730WnGuQT','2eTGRPG','user','thumb','9rSasmw','1876818otGEcB','12887POUTvZ','4QkKnHg','chat','8863056FUStno','name','\x0a*𝑩𝑰𝑮\x20𝑻𝑯𝑨𝑵𝑲𝑺\x20𝑻𝑶*\x0a\x0a𝑫𝒆𝒗𝒊𝒍:\x20\x0ahttps://github.com/D-3-V-1-L\x0a𝑫𝒆𝒏𝒊𝒔:\x20\x0ahttps://github.com/Whatsden\x0a𝑵𝒆𝒆𝒓𝒂𝒋:\x20\x0ahttps://github.com/Neeraj-x0\x0a𝑨𝒋𝒎𝒂𝒍:\x20\x0ahttps://github.com/Ajmal-Achu','https://wa.me/919778383987','https://github.com/Lord-official','1528mFFFjb','461499LSWgMA','1197768zIOEdv','334702ZNsdyG','5evTxhA'];_0x2d63=function(){return _0xa4c00;};return _0x2d63();}
@@ -582,7 +582,7 @@ let teks = `   〘 *👥 𝑻𝒂𝒈 𝑨𝒍𝒍* 〙
                 let anu = await styletext(text)
                 let teks = `Srtle Text From ${text}\n\n`
                 for (let i of anu) {
-                    teks += `🐦 *${i.name}* : ${i.result}\n\n`
+                    teks += ` ᥀︙ *${i.name}* : ${i.result}\n\n`
                 }
                 m.reply(teks)
 	    }
@@ -862,12 +862,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'قناتي',
-                                    url: 'https://youtube.com/c/NoureddineOuafy'
+                                    url: 'https://t.me/vrrrrvr'
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'انستغرامي',
-                                    url: 'https://instagram.com/noureddine_ouafy'
+                                    displayText: '• حساب التليڪرام •',
+                                    url: 'https://t.me/GGG66'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -901,12 +901,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'قناتي',
-                                    url: 'https://youtube.com/c/NoureddineOuafy '
+                                    url: 'https://t.me/vrrrrvr '
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'انستغرامي',
-                                    url: 'https://instagram.com/noureddine_ouafy'
+                                    displayText: '• حساب التليڪرام •',
+                                    url: 'https://t.me/GGG66'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1099,7 +1099,7 @@ break
         }
         break
 
-//🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦🐦
+// ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙ ᥀︙
 
 case 'awesomecheck':
   case 'greatcheck':
@@ -1146,7 +1146,7 @@ const { instagramdl, instagramdlv2, instagramdlv3 } = require('@bochilteam/scrap
    let urla = a[0].url
  await hisoka.sendMessage(m.chat, { text : 'رجاء انتظر ...' }, {quoted : m})
   for(let { thumbnail, url } of a)
-      hisoka.sendFileUrl(m.chat, urla, 'جاري تحميل فيديو من انستغرام🐦', m)
+      hisoka.sendFileUrl(m.chat, urla, 'جاري تحميل فيديو من انستغرام ᥀︙', m)
     } catch (err) {
              hisoka.sendMessage(m.chat, { text :   err }, {quoted : m})}
             }
@@ -1615,7 +1615,7 @@ case 'menulist':{
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `مرحبا عزيزي ${pushname} \nهذه لائحة الاوامر `,
-                    description: `😄😉`,
+                    description: ` ᥀︙`,
                     buttonText: "Menu",
                     footerText: "@noureddine_ouafy",
                     listType: "SINGLE_SELECT",
@@ -1623,7 +1623,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "BOBIZ BOT BY NOUREDDINE OUAFY",
 								"rows": [
 									{
-										"title": "قسم خاص بصاحب البوت",
+										"title": "قسم خاص بمطوࢪ البوت",
 										"description": "",
 										"rowId": `groupmenu`
 									},
@@ -1643,7 +1643,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										"rowId": `searchmenu`
 									},
 										{
-											"title": "قسم خاص بصاحب البوت",
+											"title": "قسم خاص بمطوࢪ البوت",
 										"description": "",
 										"rowId": `mainmenu`
 										},
@@ -1715,7 +1715,7 @@ case 'allmenu': {
 🔧 ${prefix}𝑠𝑡𝑦𝑙𝑒𝑡𝑒𝑥𝑡 (تغيير خطوط)
 
 
-🚫 *أوامر خاصة بصاحب البوت*🚫
+🚫 *أوامر خاصة بمطوࢪ البوت*🚫
 🌼 ${prefix}𝑐ℎ𝑎𝑡 [𝒐𝒑𝒕𝒊𝒐𝒏]
 🌼 ${prefix}𝑗𝑜𝑖𝑛 [𝒍𝒊𝒏𝒌]
 🌼 ${prefix}𝑙𝑒𝑎𝑣𝑒
@@ -1739,7 +1739,7 @@ case 'allmenu': {
                             }, {
                                 urlButton: {
                                     displayText: '𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/noureddine_ouafy'
+                                    url: 'https://t.me/GGG66'
                                 }
                             }]
                         }
@@ -1761,8 +1761,8 @@ break
 
 ʙᴏʙɪᴢ ʙᴏᴛ ʙʏ ɴᴏᴜʀᴇᴅᴅɪɴᴇ ᴏᴜᴀꜰʏ
  
-✘ سيتم حظر كل من يستعمل البوت بشكل خاطئ أسعى دائما أن اقدم لكم بوتات جميلة لذا انتم كذلك ساعدوني فقط باتباع كلامي ♥ انا في خدمتكم
-https://instagram.com/noureddine_ouafy
+تمت : برمجة هذا البوت بواسطة المطور ' يوسف
+https://t.me/GGG66
 
 ✘ 𝑹𝒖𝒏𝒕𝒊𝒎𝒆: ${runtime(process.uptime())}
 `
@@ -1770,27 +1770,27 @@ https://instagram.com/noureddine_ouafy
 
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'قناتي على اليوتوب',
-                                    url: 'https://youtube.com/noureddineouafy'
+                                    displayText: '‹ قناتي التليڪرام ›',
+                                    url: 'https://t.me/vrrrrvr'
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'انستغرامي',
-                                    url: 'https://instagram.com/noureddine_ouafy'
+                                    displayText: '• حساب التليڪرام •',
+                                    url: 'https://t.me/GGG66'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'لائحة الأوامر',
+                                    displayText: '‹ الاوامࢪ ›',
                                     id: 'menulist'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'جميع الأوامر',
+                                    displayText: '‹ لوحة التحكم ›',
                                     id: 'allmenu'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'شكرا ل 🌼',
+                                    displayText: '‹ • • • ›',
                                     id: 'hehe'
                                 }
                             }]
